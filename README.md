@@ -1,6 +1,6 @@
 # 🚨 Repository Relocation Notice
 
-This repository has been **deprecated** and moved. Please use the new official location for the latest updates, issues, and releases.
+This repository has **moved**. Please use the new official location for the latest updates, issues, and releases.
 
 ### 📍 New Repository
 
